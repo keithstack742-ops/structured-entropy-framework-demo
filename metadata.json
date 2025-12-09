@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Structured Entropy Framework Demo",
+  "description": "A web-based demonstration of the Structured Entropy Framework for solving MaxCut problems, showcasing performance metrics for various graph sizes based on simulated and proven data.",
+  "requestFramePermissions": []
+}
